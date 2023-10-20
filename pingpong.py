@@ -16,7 +16,7 @@ pygame.init()
 FPS = 60
 
 #Setting the screen size
-scr_size = (width,height) = (900,400)
+scr_size = (width,height) = (720,480)
 
 #creating a clock object from pygame.time.Clock class
 clock = pygame.time.Clock()
