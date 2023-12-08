@@ -80,5 +80,3 @@ The AI paddle's behavior is crucial to the game's challenge. Developers can adju
 
 ## 8. Conclusion
 This documentation provides an overview of the ping pong game, its system requirements, customization options, and a basic game development outline. Developers are encouraged to explore, experiment, and enhance the game based on their creativity and preferences.
-
-Happy gaming and happy coding!
